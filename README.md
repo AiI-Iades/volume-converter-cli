@@ -1,2 +1,1 @@
-# volume-converter-cli
-CLI tool for converting volume units (L, m³, gal, fl oz)
+# Volume Converter CLI\nConvert between common volume units like liters (L), cubic meters (m³), gallons (gal), and fluid ounces (fl oz).\n\nUsage: `volume-converter <value> <from-unit> <to-unit>`\nExample: `volume-converter 5 L gal`
